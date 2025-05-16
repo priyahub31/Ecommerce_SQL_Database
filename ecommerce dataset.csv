@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,product_id,product_name,category,price,order_id,order_date,total_amount,quantity,order date
+1,John,Doe,john.doe@example.com,1,Laptop,Electronics,1000,1001,3/15/2023,4000,4,1/10/2023
+2,Jane,Smith,jane.smith@example.com,2,Headphones,Electronics,150,1002,3/17/2023,900,6,1/15/2023
+3,Bob,Johnson,bob.johnson@example.com,4,Coffee Maker,Home Appliances,80,1003,3/20/2023,160,2,2/5/2023
+4,Alice,Williams,alice.williams@example.com,3,Desk Chair,Furniture,120,1004,3/25/2023,240,2,3/10/2023
